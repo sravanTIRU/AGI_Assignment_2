@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment/config files
+.env
+.env.*
+
+# Generated certificates
+output/
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build/package files
+build/
+dist/
+*.egg-info/
+
+# Local input files
+# Uncomment these if they contain real student data:
+# *.xlsx
+# *.xls
