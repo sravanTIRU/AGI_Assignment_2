@@ -1,5 +1,7 @@
 # Student Certificate Mail-Merge Automation Tool
 
+REG NO: 261FB04042 | 1st Mtech, CSE
+
 A Python-based certificate mail-merge automation tool that generates individual student certificates from an Excel file (`.xlsx`) and a DOCX certificate template (`.docx`), exporting layout-preserving PDF certificates into `output/certificates/` with the exact filename format `<REG_NO>.pdf`.
 
 ---
